@@ -1,0 +1,1 @@
+export const EXIST_CONNECTION = 'EXIST_CONNECTION'
